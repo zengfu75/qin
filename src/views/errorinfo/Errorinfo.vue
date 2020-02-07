@@ -1,0 +1,13 @@
+<template>
+  <el-container>
+    <el-header>
+      头部
+    </el-header>
+  <el-container>
+    <router-view/>
+  </el-container>
+  <el-footer>
+    脚部
+  </el-footer>
+  </el-container>
+</template>
